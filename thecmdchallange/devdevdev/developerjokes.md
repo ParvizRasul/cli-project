@@ -1,5 +1,3 @@
-1.	Why do programmers prefer dark mode?
-Because light attracts bugs!
 
 2.	What did the Java code say to the C code?
 “You’ve got no class!”
@@ -28,4 +26,5 @@ Knock, knock.
 Because they didn’t get the algorithm.
 
 10.	When is a function a bad dancer?
-When it can’t handle its parameters.
+When it can’t handle its parametersm-
+
